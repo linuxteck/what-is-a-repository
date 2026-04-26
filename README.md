@@ -28,7 +28,7 @@ If you remember just this:
 
 > How Linux repositories deliver software and updates
 
-![Preview](https://raw.githubusercontent.com/linuxteck/linux-repository/main/repo-preview.png)
+![Preview](https://github.com/linuxteck/what-is-a-repository/blob/main/Repository-git.png)
 
 ---
 
